@@ -36,8 +36,9 @@ Language: Java
 Core Libraries:
 java.util: Used for ArrayList, Arrays, and Random.
 java.io: For file reading using BufferedReader and FileReader.
-This project demonstrates skills in:
 
+
+This project demonstrates skills in:
 Object-oriented programming (OOP) with classes and objects.
 String manipulation and algorithmic thinking.
 File I/O operations to integrate external data (dictionary file).
